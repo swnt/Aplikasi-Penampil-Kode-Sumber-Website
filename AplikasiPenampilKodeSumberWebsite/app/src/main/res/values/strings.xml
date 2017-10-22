@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">
+        Penampil Kode Sumber Website
+    </string>
+
+    <string-array name="menu">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
